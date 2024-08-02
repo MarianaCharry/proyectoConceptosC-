@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\proyectoConceptosC-\\proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8642A9E3-8247-4DE3-816A-99A97C2245DA}|ejercicioConceptos\\ejercicioConceptos.csproj|d:\\proyectoconceptosc-\\proyecto\\ejercicioconceptos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8642A9E3-8247-4DE3-816A-99A97C2245DA}|ejercicioConceptos\\ejercicioConceptos.csproj|solutionrelative:ejercicioconceptos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCAD69CA-4ED9-49F6-B7AF-A419DB3FF596}|clase\\clase.csproj|d:\\proyectoconceptosc-\\proyecto\\clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCAD69CA-4ED9-49F6-B7AF-A419DB3FF596}|clase\\clase.csproj|solutionrelative:clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E59079-C6E3-4A5A-A301-611C9EBDFE9E}|polimorfismoDin\u00E1micoSobreescritura\\polimorfismoDin\u00E1micoSobreescritura.csproj|d:\\proyectoconceptosc-\\proyecto\\polimorfismodin\u00E1micosobreescritura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60E59079-C6E3-4A5A-A301-611C9EBDFE9E}|polimorfismoDin\u00E1micoSobreescritura\\polimorfismoDin\u00E1micoSobreescritura.csproj|solutionrelative:polimorfismodin\u00E1micosobreescritura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC7C7D0-BAD8-4566-8CB0-10E3D3B00537}|polimorfismoEst\u00E1ticoSobrecarga\\polimorfismoEst\u00E1ticoSobrecarga.csproj|d:\\proyectoconceptosc-\\proyecto\\polimorfismoest\u00E1ticosobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC7C7D0-BAD8-4566-8CB0-10E3D3B00537}|polimorfismoEst\u00E1ticoSobrecarga\\polimorfismoEst\u00E1ticoSobrecarga.csproj|solutionrelative:polimorfismoest\u00E1ticosobrecarga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1990DDE8-6615-491C-9A6A-7D51AAFECC35}|PrincipioDeSustituci\u00F3nLiskov\\PrincipioDeSustituci\u00F3nLiskov.csproj|d:\\proyectoconceptosc-\\proyecto\\principiodesustituci\u00F3nliskov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1990DDE8-6615-491C-9A6A-7D51AAFECC35}|PrincipioDeSustituci\u00F3nLiskov\\PrincipioDeSustituci\u00F3nLiskov.csproj|solutionrelative:principiodesustituci\u00F3nliskov\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF4834D-6C01-497F-AA27-632ACF825C69}|PrincipioDeInversi\u00F3nDeDependencias\\PrincipioDeInversi\u00F3nDeDependencias.csproj|d:\\proyectoconceptosc-\\proyecto\\principiodeinversi\u00F3ndedependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF4834D-6C01-497F-AA27-632ACF825C69}|PrincipioDeInversi\u00F3nDeDependencias\\PrincipioDeInversi\u00F3nDeDependencias.csproj|solutionrelative:principiodeinversi\u00F3ndedependencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{320208E3-3B40-4BCB-8CBF-316231E61351}|PrincipioAbierto-Cerrado\\PrincipioAbierto-Cerrado.csproj|d:\\proyectoconceptosc-\\proyecto\\principioabierto-cerrado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{320208E3-3B40-4BCB-8CBF-316231E61351}|PrincipioAbierto-Cerrado\\PrincipioAbierto-Cerrado.csproj|solutionrelative:principioabierto-cerrado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEB6192-E7B3-4577-99DD-F3B03FB1D0CE}|funcionesYMetodosConYSinParametros\\funcionesYMetodosConYSinParametros.csproj|d:\\proyectoconceptosc-\\proyecto\\funcionesymetodosconysinparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEB6192-E7B3-4577-99DD-F3B03FB1D0CE}|funcionesYMetodosConYSinParametros\\funcionesYMetodosConYSinParametros.csproj|solutionrelative:funcionesymetodosconysinparametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2831E478-ABFB-4002-9103-36A8E50E2F77}|principioSolidResponsabilidadUnica\\principioSolidResponsabilidadUnica.csproj|d:\\proyectoconceptosc-\\proyecto\\principiosolidresponsabilidadunica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2831E478-ABFB-4002-9103-36A8E50E2F77}|principioSolidResponsabilidadUnica\\principioSolidResponsabilidadUnica.csproj|solutionrelative:principiosolidresponsabilidadunica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4263D4B-C08C-4D12-8B79-0AEA5402D763}|PrincipioDeSegregaci\u00F3nDeInterfaces\\PrincipioDeSegregaci\u00F3nDeInterfaces.csproj|d:\\proyectoconceptosc-\\proyecto\\principiodesegregaci\u00F3ndeinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4263D4B-C08C-4D12-8B79-0AEA5402D763}|PrincipioDeSegregaci\u00F3nDeInterfaces\\PrincipioDeSegregaci\u00F3nDeInterfaces.csproj|solutionrelative:principiodesegregaci\u00F3ndeinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\PrincipioDeSegregaci\u00F3nDeInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioDeSegregaci\u00F3nDeInterfaces\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\PrincipioDeSegregaci\u00F3nDeInterfaces\\Program.cs",
+              "RelativeToolTip": "PrincipioDeSegregaci\u00F3nDeInterfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:21:39.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\ejercicioConceptos\\Program.cs",
-              "RelativeDocumentMoniker": "ejercicioConceptos\\Program.cs",
-              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\ejercicioConceptos\\Program.cs",
-              "RelativeToolTip": "ejercicioConceptos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\clase\\Program.cs",
+              "RelativeDocumentMoniker": "clase\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\clase\\Program.cs",
+              "RelativeToolTip": "clase\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T21:55:45.64Z",
+              "WhenOpened": "2024-08-02T22:36:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\polimorfismoEst\u00E1ticoSobrecarga\\Program.cs",
+              "RelativeDocumentMoniker": "polimorfismoEst\u00E1ticoSobrecarga\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\polimorfismoEst\u00E1ticoSobrecarga\\Program.cs",
+              "RelativeToolTip": "polimorfismoEst\u00E1ticoSobrecarga\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:24:07.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\PrincipioDeInversi\u00F3nDeDependencias\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioDeInversi\u00F3nDeDependencias\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\PrincipioDeInversi\u00F3nDeDependencias\\Program.cs",
+              "RelativeToolTip": "PrincipioDeInversi\u00F3nDeDependencias\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:23:00.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\PrincipioDeSustituci\u00F3nLiskov\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioDeSustituci\u00F3nLiskov\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\PrincipioDeSustituci\u00F3nLiskov\\Program.cs",
+              "RelativeToolTip": "PrincipioDeSustituci\u00F3nLiskov\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:18:09.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\PrincipioAbierto-Cerrado\\Program.cs",
+              "RelativeDocumentMoniker": "PrincipioAbierto-Cerrado\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\PrincipioAbierto-Cerrado\\Program.cs",
+              "RelativeToolTip": "PrincipioAbierto-Cerrado\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:17:21.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\principioSolidResponsabilidadUnica\\Program.cs",
+              "RelativeDocumentMoniker": "principioSolidResponsabilidadUnica\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\principioSolidResponsabilidadUnica\\Program.cs",
+              "RelativeToolTip": "principioSolidResponsabilidadUnica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:16:27.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\polimorfismoDin\u00E1micoSobreescritura\\Program.cs",
+              "RelativeDocumentMoniker": "polimorfismoDin\u00E1micoSobreescritura\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\polimorfismoDin\u00E1micoSobreescritura\\Program.cs",
+              "RelativeToolTip": "polimorfismoDin\u00E1micoSobreescritura\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:13:20.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectoConceptosC-\\proyecto\\funcionesYMetodosConYSinParametros\\Program.cs",
+              "RelativeDocumentMoniker": "funcionesYMetodosConYSinParametros\\Program.cs",
+              "ToolTip": "D:\\proyectoConceptosC-\\proyecto\\funcionesYMetodosConYSinParametros\\Program.cs",
+              "RelativeToolTip": "funcionesYMetodosConYSinParametros\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:06:37.724Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\polimorfismoEstáticoSobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\polimorfismoEstáticoSobrecarga.AssemblyInfoInputs.cache
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\polimorfismoEstáticoSobrecarga.AssemblyInfo.cs
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\polimorfismoEstáticoSobrecarga.csproj.CoreCompileInputs.cache
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\polimorfismoEstáticoSobrecarga.sourcelink.json
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\bin\Debug\net8.0\polimorfismoEstáticoSobrecarga.exe
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\bin\Debug\net8.0\polimorfismoEstáticoSobrecarga.deps.json
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\bin\Debug\net8.0\polimorfismoEstáticoSobrecarga.runtimeconfig.json
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\bin\Debug\net8.0\polimorfismoEstáticoSobrecarga.dll
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\bin\Debug\net8.0\polimorfismoEstáticoSobrecarga.pdb
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\polimorfismoEstáticoSobrecarga.dll
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\refint\polimorfismoEstáticoSobrecarga.dll
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\polimorfismoEstáticoSobrecarga.pdb
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\polimorfismoEstáticoSobrecarga.genruntimeconfig.cache
+D:\proyectoConceptosC-\proyecto\polimorfismoEstáticoSobrecarga\obj\Debug\net8.0\ref\polimorfismoEstáticoSobrecarga.dll

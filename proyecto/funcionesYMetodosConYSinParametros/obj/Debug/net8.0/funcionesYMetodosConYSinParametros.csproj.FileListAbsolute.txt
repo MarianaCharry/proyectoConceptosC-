@@ -1,0 +1,15 @@
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\bin\Debug\net8.0\funcionesYMetodosConYSinParametros.exe
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\bin\Debug\net8.0\funcionesYMetodosConYSinParametros.deps.json
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\bin\Debug\net8.0\funcionesYMetodosConYSinParametros.runtimeconfig.json
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\bin\Debug\net8.0\funcionesYMetodosConYSinParametros.dll
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\bin\Debug\net8.0\funcionesYMetodosConYSinParametros.pdb
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\funcionesYMetodosConYSinParametros.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\funcionesYMetodosConYSinParametros.AssemblyInfoInputs.cache
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\funcionesYMetodosConYSinParametros.AssemblyInfo.cs
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\funcionesYMetodosConYSinParametros.csproj.CoreCompileInputs.cache
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\funcionesYMetodosConYSinParametros.sourcelink.json
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\funcionesYMetodosConYSinParametros.dll
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\refint\funcionesYMetodosConYSinParametros.dll
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\funcionesYMetodosConYSinParametros.pdb
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\funcionesYMetodosConYSinParametros.genruntimeconfig.cache
+D:\proyectoConceptosC-\proyecto\funcionesYMetodosConYSinParametros\obj\Debug\net8.0\ref\funcionesYMetodosConYSinParametros.dll

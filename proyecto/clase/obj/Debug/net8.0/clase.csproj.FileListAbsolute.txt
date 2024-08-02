@@ -1,0 +1,15 @@
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\clase.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\clase.AssemblyInfoInputs.cache
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\clase.AssemblyInfo.cs
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\clase.csproj.CoreCompileInputs.cache
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\clase.sourcelink.json
+D:\proyectoConceptosC-\proyecto\clase\bin\Debug\net8.0\clase.exe
+D:\proyectoConceptosC-\proyecto\clase\bin\Debug\net8.0\clase.deps.json
+D:\proyectoConceptosC-\proyecto\clase\bin\Debug\net8.0\clase.runtimeconfig.json
+D:\proyectoConceptosC-\proyecto\clase\bin\Debug\net8.0\clase.dll
+D:\proyectoConceptosC-\proyecto\clase\bin\Debug\net8.0\clase.pdb
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\clase.dll
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\refint\clase.dll
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\clase.pdb
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\clase.genruntimeconfig.cache
+D:\proyectoConceptosC-\proyecto\clase\obj\Debug\net8.0\ref\clase.dll

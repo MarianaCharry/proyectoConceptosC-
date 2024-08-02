@@ -1,0 +1,15 @@
+D:\proyectoConceptosC-\proyecto\polimorfismo\bin\Debug\net8.0\polimorfismo.exe
+D:\proyectoConceptosC-\proyecto\polimorfismo\bin\Debug\net8.0\polimorfismo.deps.json
+D:\proyectoConceptosC-\proyecto\polimorfismo\bin\Debug\net8.0\polimorfismo.runtimeconfig.json
+D:\proyectoConceptosC-\proyecto\polimorfismo\bin\Debug\net8.0\polimorfismo.dll
+D:\proyectoConceptosC-\proyecto\polimorfismo\bin\Debug\net8.0\polimorfismo.pdb
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\polimorfismo.AssemblyInfoInputs.cache
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\polimorfismo.AssemblyInfo.cs
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\polimorfismo.csproj.CoreCompileInputs.cache
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\polimorfismo.sourcelink.json
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\polimorfismo.dll
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\refint\polimorfismo.dll
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\polimorfismo.pdb
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\polimorfismo.genruntimeconfig.cache
+D:\proyectoConceptosC-\proyecto\polimorfismo\obj\Debug\net8.0\ref\polimorfismo.dll

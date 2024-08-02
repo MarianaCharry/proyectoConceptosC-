@@ -1,0 +1,15 @@
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\bin\Debug\net8.0\polimorfismoDinámicoSobreescritura.exe
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\bin\Debug\net8.0\polimorfismoDinámicoSobreescritura.deps.json
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\bin\Debug\net8.0\polimorfismoDinámicoSobreescritura.runtimeconfig.json
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\bin\Debug\net8.0\polimorfismoDinámicoSobreescritura.dll
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\bin\Debug\net8.0\polimorfismoDinámicoSobreescritura.pdb
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\polimorfismoDinámicoSobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\polimorfismoDinámicoSobreescritura.AssemblyInfoInputs.cache
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\polimorfismoDinámicoSobreescritura.AssemblyInfo.cs
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\polimorfismoDinámicoSobreescritura.csproj.CoreCompileInputs.cache
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\polimorfismoDinámicoSobreescritura.sourcelink.json
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\polimorfismoDinámicoSobreescritura.dll
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\refint\polimorfismoDinámicoSobreescritura.dll
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\polimorfismoDinámicoSobreescritura.pdb
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\polimorfismoDinámicoSobreescritura.genruntimeconfig.cache
+D:\proyectoConceptosC-\proyecto\polimorfismoDinámicoSobreescritura\obj\Debug\net8.0\ref\polimorfismoDinámicoSobreescritura.dll
